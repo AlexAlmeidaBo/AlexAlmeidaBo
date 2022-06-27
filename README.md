@@ -1,7 +1,7 @@
 ### Olá, me chamo Alexsandro! É um grande prazer recebê-los!! 👋
 
 
-- 🔭 Desenvolvedor focado em Fron-end
+- 🔭 Desenvolvedor focado em Front-end
 - 🌱 Atualmente estudando Javascript
 
 <div align="center">
